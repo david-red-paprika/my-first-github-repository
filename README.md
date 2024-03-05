@@ -3,4 +3,4 @@ This is my first one, for testing purposes.
 
 This line was modified manually during conflicts resolution. 
 
-New line added locally. And one more sentence added locally.
+New line added locally. And one more sentence added REMOTELY. 
